@@ -4,7 +4,7 @@
 
 <div class="h-screen w-full relative overflow-hidden text-gray-300 bg-gray-950 p-4">
 	<div class="flex row w-full">
-		<div class="text-3xl font-bold">Spendable</div>
+		<div class="text-4xl font-bold">Spendable</div>
 	</div>
 
 	<div class="w-full h-1 rounded-sm bg-gray-900 my-3" />
